@@ -1,0 +1,5 @@
+mytuple=("banana","mango","cherry")
+#print(mytuple[2])
+x=list(mytuple)
+x.append("orange")
+print(x)

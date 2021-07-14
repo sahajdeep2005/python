@@ -1,0 +1,106 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E111" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="SmartCalculator.tkinter" />
+          <option value="tkinter" />
+          <option value="pythonlLibrary.test.Entry" />
+          <option value="pythonlLibrary.test.Button" />
+          <option value="pythonlLibrary.test.stringVar" />
+          <option value="pythonlLibrary.test.*" />
+          <option value="SmartCalculator.*" />
+          <option value="messagebox" />
+          <option value="math" />
+          <option value="cxFreezeFile.freeze" />
+          <option value="cx" />
+          <option value="cx_freeze" />
+          <option value="cx_Freeze" />
+          <option value="cxFreezeFile.includefiles" />
+          <option value="cxFreezeFile.Executable" />
+          <option value="cxFreezeFile.*" />
+          <option value="sys" />
+          <option value="SmartcalculatorSet.setup" />
+          <option value="testset.executables" />
+          <option value="testset.base" />
+          <option value="testset.setup" />
+          <option value="SmartcalculatorSet.*" />
+          <option value="testset.executaible" />
+          <option value="typingSpeedGame.*" />
+          <option value="random" />
+          <option value="spellingTest.*" />
+          <option value="QRcode.*" />
+          <option value="pyqrcode" />
+          <option value="qrcode" />
+          <option value="os" />
+          <option value="shutil" />
+          <option value="subprocess" />
+          <option value="threading" />
+          <option value="shlex" />
+          <option value="website.*" />
+          <option value="glob" />
+          <option value="pwd" />
+          <option value="socket" />
+          <option value="tempfile" />
+          <option value="getopt" />
+          <option value="webbrowser" />
+          <option value="myqr" />
+          <option value="musicsystem.Tk" />
+          <option value="AllcolorBox.Tk" />
+          <option value="AllcolorBox.Label" />
+          <option value="AllcolorBox.W" />
+          <option value="AllcolorBox.E" />
+          <option value="musicsystem.Label" />
+          <option value="musicsystem.Entry" />
+          <option value="musicsystem.Button" />
+          <option value="musicsystem.stringVar" />
+          <option value="musicsystem.RIGHT" />
+          <option value="musicsystem.StringVar" />
+          <option value="musicsystem.mixer" />
+          <option value="musicsystem.piagame" />
+          <option value="musicsystem.pygame" />
+          <option value="musicsystem.sound" />
+          <option value="musicsystem.music" />
+          <option value="musicsystem.mute_button" />
+          <option value="pygame" />
+          <option value="musicsystem.audiolebal" />
+          <option value="musicsystem.VERTICAL" />
+          <option value="progressbar" />
+          <option value="ttk" />
+          <option value="musicsystem.HORIZANTAL" />
+          <option value="musicsystem.*" />
+          <option value="datetime" />
+          <option value="Translator.Entry" />
+          <option value="Translator.StringVar" />
+          <option value="Translator.Label" />
+          <option value="Translator.Button" />
+          <option value="Translator.click" />
+          <option value="googletrans" />
+          <option value="Translator.on_enterentry" />
+          <option value="Translator.on_leaverentry" />
+          <option value="Translator.on_enterentrybtn2" />
+          <option value="Translator.on_leaverentrybtn2" />
+          <option value="Translator.on_enterentrybtn1" />
+          <option value="Translator.on_leaverentrybtn1" />
+          <option value="Translator.on_enterentry2" />
+          <option value="Translator.on_leaverentry2" />
+          <option value="Translator.on_leaverentry1" />
+          <option value="Translator.on_enterentry1" />
+          <option value="Translator.on_enterbtn1" />
+          <option value="Translator.on_leavebtn1" />
+          <option value="Translator.on_leaveentry2" />
+          <option value="Translator.textblob" />
+          <option value="Translator.btn" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
